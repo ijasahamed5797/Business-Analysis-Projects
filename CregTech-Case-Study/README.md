@@ -13,4 +13,4 @@ To analyze the strategic, operational, and human resource challenges faced by Cr
 ## Outcome & Recommendations
 Developed a comprehensive strategic plan focusing on leadership development, a revised reward package, a phased expansion strategy, and a framework for managing the international partnership.
 
-[View Full Case Study](./CregTech-Case-Study .docx)
+[View Full Case Study](./CregTech-Case-Study.docx)
