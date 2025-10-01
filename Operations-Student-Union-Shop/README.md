@@ -33,4 +33,4 @@ Optimizing cashier staffing levels at a student union shop to balance customer w
 - Cost-Benefit Analysis
 - Service Operations Optimization
 
-[View Full Report](./Operations-Assignment-Students-Union-Shop.docx)
+[View Full Report](./Operations-Assignment-Students-Union-Shop.pdf)
