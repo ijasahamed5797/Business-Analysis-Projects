@@ -19,4 +19,4 @@ In-depth financial analysis of Delta World PLC using ratio analysis to evaluate 
 ## Investment Recommendation
 **BUY** recommendation based on strong 2021 performance, undervalued stock position, and improved operational efficiency, with caution regarding debt levels.
 
-[View Full Analysis](./Financial-Analysis-Delta-World.pdf)
+[View Full Analysis](./Financial-Analysis-of-Delta-World-PLC.pdf)
