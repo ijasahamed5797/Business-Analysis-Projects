@@ -44,4 +44,4 @@ Optimizing cashier staffing levels at a student union shop to balance customer w
 - **[Operations Analysis Report](./Operations-Assignment-Students-Union-Shop.pdf)** - Comprehensive analysis and recommendations
 - **[Excel Queuing Model](./Operations-Assignment.xlsx)** - Interactive quantitative model with formulas and calculations
 
-[View Full Report](./Operations-Assignment-Students-Union-Shop.docx) | [Download Excel Model](./Operations-Assignment.xlsx)
+[View Full Report](./Operations-Assignment-Students-Union-Shop.pdf) | [Download Excel Model](./Operations-Assignment.xlsx)
