@@ -23,4 +23,4 @@ Comprehensive strategic analysis of Barclays PLC, identifying critical challenge
 - Digital Transformation Strategy
 - Competitive Strategy Formulation
 
-[View Full Analysis](./Strategic-Analysis-Barclays.docx)
+[View Full Analysis](./Strategic-Analysis-Barclays.pdf)
