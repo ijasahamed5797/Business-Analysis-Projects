@@ -31,8 +31,8 @@ This portfolio serves as a practical demonstration of my ability to apply theore
 
 I'm passionate about applying strategic thinking and analytical skills to solve complex business problems. Feel free to reach out for opportunities or professional networking:
 
-- **📧 Email:** [your.email@domain.com](ijasahamed5797@gmail.com)
-- **💼 LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/ijasahamedshajahan)
+- **📧 Email:** (ijasahamed5797@gmail.com)
+- **💼 LinkedIn:** (https://www.linkedin.com/in/ijasahamedshajahan)
 
 
 *I'm always open to discussing new opportunities, collaborations, or professional connections in the business strategy and operations space.*
