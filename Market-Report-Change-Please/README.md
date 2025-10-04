@@ -45,7 +45,3 @@ Comprehensive market analysis and strategic recommendations for Change Please, a
 - CSR Integration & Impact Measurement
 
 [View Full Report](./Group-Market-Report-Change-Please.pdf)
-
-- CSR Integration & Impact Measurement
-
-[View Full Report](./Group-Market-Report-Change-Please.docx)
